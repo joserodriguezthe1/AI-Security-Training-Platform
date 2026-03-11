@@ -2,7 +2,7 @@
 
 **A comprehensive, interactive AI Security Training Platform** built to teach individuals and organizations how to securely develop, deploy, manage, and govern Artificial Intelligence systems — from beginner fundamentals to enterprise-level strategy.
 
-![AI·SEC·ACADEMY Screenshot](AI training.png)
+![AI·SEC·ACADEMY Screenshot](AI-training.png)
 ---
 
 ## 🚀 Overview
