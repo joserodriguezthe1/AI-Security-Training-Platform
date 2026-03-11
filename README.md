@@ -66,7 +66,7 @@ The app will be available at `http://localhost:3000`.
 ```
 ai-sec-academy/
 ├── src/
-│   └── ai-security-platform.jsx   # Complete single-file application
+│   └── App.jsx   # Complete single-file application
 ├── public/
 │   └── index.html
 ├── package.json
